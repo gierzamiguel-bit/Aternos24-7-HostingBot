@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "hardblood-NaKS.aternos.me",
+    "ip": "hardblood-NaKS.aternos.me:19338",
     "port": 19338,
     "version": "",
     "try-creative": true
